@@ -4,7 +4,12 @@ fn main(){
     let emp_name= emp_info.0;
     let emp_age = emp_info.1;
 
+
+    let (emp_naam,emp_umr)= emp_info;
+
+    println!("emp name is {}, and emp age is {}",emp_naam,emp_umr);
+
     println!("emp name is {}, and emp age is {}",emp_name,emp_age);
 
-    //demo of tuples 
+    //demo of tuples and desctructuring concept
 }
