@@ -13,4 +13,22 @@ fn yaar(item:String){
 
 //the error is 
 // println!("the value of x is {}",x);
-                              //    ^ value borrowed here after move
+                             
+
+        
+
+
+        //    ^ value borrowed here after move
+
+
+
+
+
+
+
+        
+
+
+
+
+    
