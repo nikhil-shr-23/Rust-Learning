@@ -17,8 +17,11 @@ fn main(){
 
 
     println!("You guessed: {nik}");
+    //this works too
 }
 
 //somehow this is working 
 
 //to learn - std and input output using rust 
+
+//also creating a random number using rand crate
