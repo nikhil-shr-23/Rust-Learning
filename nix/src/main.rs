@@ -6,3 +6,4 @@ fn main() {
     nik= String::from("and the value changes");
     println!("this is crazy {}",nik);
 }
+
